@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Audrey Bourret
 description: Under construction
+exclude: ["ReadMe.md"]
