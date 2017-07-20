@@ -2,9 +2,3 @@ theme: jekyll-theme-minimal
 title: Audrey Bourret
 description: Page under construction
 exclude: ["ReadMe.md"]
-
-author:
-  name : Audrey Bourret
-  email : audrey.bourret@usherbrooke.ca
-  github : biodray
-  twitter : AudreyBourret
