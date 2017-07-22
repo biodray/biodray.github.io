@@ -11,7 +11,7 @@ courses:
   - {title: Diseases of the Mind, semester: Fall 1884, school: King's College London, description: Survey course. Mainly taught by example., link: courses/temp_course }
 #----------------------
 # Contact
-contact-info: <p>Audrey Bourret<br>Université de Sherbrooke<br>Département de biologie<br>Sherbrooke<br>Canada</p>
+contact-info: <p>Audrey Bourret<br>Universite de Sherbrooke<br>Departement de biologie<br>Sherbrooke<br>Canada</p>
 
 contact-links:
   - {contact-text: Github, contact-link: "https://www.google.com", icon: 'favicon.html'}
