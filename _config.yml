@@ -1,4 +1,4 @@
-theme: DrJekyll
+theme: jekyll-theme-architect
 title: Audrey Bourret
 description: Page under construction
 exclude: ["ReadMe.md"]
