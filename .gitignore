@@ -3,3 +3,5 @@ _site/
 *.sublime-project
 .Rproj.user
 WebPage.Rproj
+Gemfile
+Gemfile.lock
