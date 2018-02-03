@@ -5,3 +5,4 @@ _site/
 WebPage.Rproj
 Gemfile
 Gemfile.lock
+*.Rproj
