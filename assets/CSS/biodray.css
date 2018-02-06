@@ -1,0 +1,29 @@
+.fit { /* set relative picture size */
+  max-width: 100%;
+  max-height: 100%;
+}
+.center {
+  display: block;
+  margin: auto;
+}
+.center-content {
+  display: block;
+  margin: 10px 10%;
+}
+.palette {
+  background-color: WhiteSmoke;
+}
+body{
+  background-color: WhiteSmoke;
+  }
+footer{
+    position:relative;
+    bottom:0;
+    width:100%;
+}
+ul {
+  padding-left: 30px;
+}
+li {
+  padding-left: 10px;
+}
