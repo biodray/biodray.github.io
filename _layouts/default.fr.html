@@ -6,7 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/CSS/biodray.css">
+<!--  <link rel="stylesheet" href="/assets/css/style.css"/>-->
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
   <style>
     .fit { /* set relative picture size */
       max-width: 100%;
@@ -18,10 +20,10 @@
     }
     .center-content {
       display: block;
-      margin: 10px 10%;
+      margin: 0px 10%;
     }
     .palette {
-      background-color: WhiteSmoke;
+      background-color: White;
     }
     body{
       background-color: WhiteSmoke;
@@ -49,7 +51,7 @@
           <div class="w3-right w3-hide-small">
              <a href="/teaching/index.fr.html" class="w3-bar-item w3-button">Enseignement</a>
              <a href="/publications/index.html" class="w3-bar-item w3-button">Publications</a>
-             <a href="/CV/index.html" class="w3-bar-item w3-button">CV</a>
+             <a href="/CV/index.fr.html" class="w3-bar-item w3-button">CV</a>
              <a href="/index.html" class="w3-bar-item w3-button">EN</a>
           </div>
      </div>
@@ -61,13 +63,13 @@
 <!-- Page title -->
 <div class="w3-display-container w3-content w3-wide" style="max-width:100%;min-width:500px;">
     <img class="center fit w3-opacity" src="https://biodray.github.io/assets/img/border.JPG" alt="Rock">
-  <div class="w3-display-left w3-padding-large" >
+  <div class="w3-display-left center-content" >
     <h1 class="w3-xxxlarge" style="padding-left: 30px;">{{ page.title }}</h1>
   </div>
 </div>
 
 <!-- Content in each page -->
-<div class="w3-container palette" style="width=device-width;min-height: 75%;">
+<div class="w3-container center-content w3-card-2 palette" style="width=device-width;min-height: 75%;">
 {{ content }}
 </div>
 
